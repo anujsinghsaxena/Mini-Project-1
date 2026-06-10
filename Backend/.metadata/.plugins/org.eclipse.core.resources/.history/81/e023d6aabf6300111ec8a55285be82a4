@@ -1,0 +1,5 @@
+package com.anujtech.empmgt.repository;
+
+public class EmployeeRepository {
+
+}

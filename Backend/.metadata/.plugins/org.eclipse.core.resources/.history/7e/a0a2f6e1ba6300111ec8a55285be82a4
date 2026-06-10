@@ -1,0 +1,5 @@
+package com.anujtech.empmgt.entity;
+
+public class Employee {
+
+}

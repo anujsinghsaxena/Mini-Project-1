@@ -1,0 +1,5 @@
+package com.anujtech.empmgt.exception;
+
+public class EmployeeNotFoundException {
+
+}
